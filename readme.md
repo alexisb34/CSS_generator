@@ -1,6 +1,6 @@
 # Projet CSS Generator
 
-![capture d'écran lancement du script dans le terminal] (assets/css_generator_image.png)
+![capture d'écran lancement du script dans le terminal](assets/css_generator_image.png)
 
 ## Description
 
