@@ -10,7 +10,7 @@ Le projet **CSS Generator** consiste à créer un fichier PHP permettant de gén
    ```bash
    cd /chemin/vers/le-dossier
 
-1. **Lancer le script PHP** :
+2. **Lancer le script PHP** :
    ```bash
    php CSS_generator.php
 
@@ -20,13 +20,13 @@ Ce script combinera toutes les images du dossier fourni et génèrera un sprite 
 
 Pour afficher le manuel d'utilisation et les options disponibles pour le script, utilisez l'une des commandes suivantes:
 
-```bash
-php CSS_generator.php -h
+1. **Option 1** :
+   ```bash
+   php CSS_generator.php -h
 
-ou
-
-```bash
-php CSS_generator.php --help
+1. **Option 2** :
+   ```bash
+   php CSS_generator.php -help
 
 Cela affichera les instructions détaillées sur la façon d'utiliser le script.
 
