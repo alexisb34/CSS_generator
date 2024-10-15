@@ -1,5 +1,7 @@
 # Projet CSS Generator
 
+![capture d'écran lancement du script dans le terminal] (assets/css_generator_image.png)
+
 ## Description
 
 Le projet **CSS Generator** consiste à créer un fichier PHP permettant de générer automatiquement des sprites PNG à partir d'un dossier d'images dédié. Ce projet facilite la création de sprites CSS en combinant plusieurs images en une seule.
